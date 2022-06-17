@@ -1,0 +1,14 @@
+[
+  {
+    "package": "coreCT",
+    "oncran": true
+  },
+  {
+    "package": "NitrogenUptake2016",
+    "oncran": true
+  },
+  {
+    "package": "VulnToolkit",
+    "oncran": true
+  }
+]
