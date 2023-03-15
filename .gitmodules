@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "VulnToolkit"]
+	path = VulnToolkit
+	url = https://github.com/troyhill/vulntoolkit
+	shallow = true
+	registered = true
 [submodule "coreCT"]
 	path = coreCT
 	url = https://github.com/troyhill/corect
@@ -11,10 +16,5 @@
 [submodule "NitrogenUptake2016"]
 	path = NitrogenUptake2016
 	url = https://github.com/troyhill/nitrogenuptake2016
-	shallow = true
-	registered = true
-[submodule "VulnToolkit"]
-	path = VulnToolkit
-	url = https://github.com/troyhill/vulntoolkit
 	shallow = true
 	registered = true
