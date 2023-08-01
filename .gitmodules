@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "coreCT"]
-	path = coreCT
-	url = https://github.com/troyhill/corect
 [submodule "NitrogenUptake2016"]
 	path = NitrogenUptake2016
 	url = https://github.com/troyhill/nitrogenuptake2016
 [submodule "VulnToolkit"]
 	path = VulnToolkit
 	url = https://github.com/troyhill/vulntoolkit
+[submodule "coreCT"]
+	path = coreCT
+	url = https://github.com/troyhill/corect
